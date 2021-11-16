@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637042979 source:c:\users\ragav\onedrive\desktop\doubly linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
